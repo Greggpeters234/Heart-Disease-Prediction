@@ -99,6 +99,7 @@ Data columns (total 14 columns):
 - 1. Open heart_disease_prediction.ipynb` in Jupyter Notebook in VS Code IDE.
 - 2. Run the notebook cells to follow the ETL workflow, visualizations and ML Algorithms
 - 3. Open the heart_disease_profiling_report.html to view the ydata profiling report
+- 4. Run `streamlit run app.py` to launch the interactive dashboard and prediction app.
 
 
 ## Key Steps
