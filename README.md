@@ -24,6 +24,16 @@ This project uses a real world clinical datasets from UCI Library to predict the
 - Export cleaned heart_disease datasets to Power BI
 - Create 4 advanced visualizations and Dashboard on Power BI
 
+## Interactive Dashboard
+
+This repository now includes a Streamlit dashboard with interactive filters, KPI cards, visual analytics, and an individual risk check interface.
+
+Run it locally from the repository root:
+
+```bash
+streamlit run app.py
+```
+
 ## Technologies Used
 
 - Python 3.12.8
